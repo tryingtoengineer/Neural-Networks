@@ -9,7 +9,7 @@ This repository contains my work for the **Neural Networks** course during my st
 - **neural-networks-lab2** — Second laboratory assignment focused on Unsupervised Learning.
 - **neural-networks-lab3** — Third laboratory assignment.
 
-### Course Material (`υλικό για εξεταστική`)
+### Course Material
 Lecture slides, lab notebooks, and past exam papers used for studying, covering topics such as:
 - Perceptron & MLP
 - SVM
